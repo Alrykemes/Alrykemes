@@ -1,5 +1,10 @@
 ### Oi, eu sou o Alrykemes Cavalcanti
 
+<p>desenvolvedor de software dedicado em criar soluções criativas e inovadoras, sempre em busca de novos desafios para aplicar minhas tecnicas, sempre em aprimoramento e desenvolvimento de minhas habilidades.</p>
+<ul>
+<li>Graduando em Análise e Desenvolvimento de Sistemas💻 - IFPE</li>
+</ul>
+<br>
 <div>
 <a href="https://github.com/Alrykemes">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alrykemes&count_private=true&show_icons=true&theme=dark">
@@ -11,8 +16,12 @@
 
   <br>
   <img align="center" alt="Kemes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Kemes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kemes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kemes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div>
 
