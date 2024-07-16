@@ -15,20 +15,13 @@
 
 <div style="display: inline_block"><br>
   
-### Tecnologias Dominadas
-
-  <br>
-  <img align="center" alt="Kemes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kemes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kemes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Kemes-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+### Tecnologias que utilizo:  
+  
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,vite,vercel,html,css,js,ts,react,styledcomponents,c,java,maven,gradle,spring,hibernate,postman,mongodb,mysql)](https://skillicons.dev)
   
 </div>
 
-##
+#### Contato:
 
 <div> 
   <a href="https://www.instagram.com/alrykemes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
