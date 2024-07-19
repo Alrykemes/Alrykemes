@@ -17,7 +17,7 @@
   
 ### Tecnologias que utilizo:  
   
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,vite,vercel,html,css,js,ts,react,styledcomponents,c,java,maven,gradle,spring,hibernate,postman,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,c,java,maven,gradle,spring,hibernate,postman,mongodb,mysql)](https://skillicons.dev)
   
 </div>
 
